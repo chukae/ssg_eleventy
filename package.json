@@ -1,0 +1,21 @@
+{
+  "name": "ssg_eleventy",
+  "version": "1.0.0",
+  "description": "Building a website based on the JAM stack. We'll use an SSG named eleventy.",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JAM",
+    "stack",
+    "SSG"
+  ],
+  "author": "Chuka Ekwenze",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
