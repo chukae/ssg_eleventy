@@ -4,8 +4,12 @@ module.exports = function(config) {
     return  {
       dir: {
         input: "src",
-        output: "dist"
+        output: "dist",
+        data: "_data"
       }
     };
   
   };
+
+  //8be691e539054fbdaad1fa6c4f6aff83
+  

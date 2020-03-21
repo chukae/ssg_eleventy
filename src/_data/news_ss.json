@@ -1,0 +1,8 @@
+{
+    "articles": [
+        {"title": "Wow, This is news item 1"},
+        {"title": "Wow, This is news item 2"},
+        {"title": "Wow, This is news item 3"},
+        {"title": "Wow, This is news item 4"}
+    ]
+}
