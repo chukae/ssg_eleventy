@@ -8,3 +8,8 @@ layout: base.njk
 <p class="vibe">It was made using HTML,CSS and Javascript and saerved using JAM stack</p>
 
 </div>
+
+{% for item in news %}
+    <a href="/{{ item.country }}">{{ item.country }}</a>
+
+{% endfor %}
